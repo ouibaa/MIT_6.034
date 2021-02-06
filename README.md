@@ -1,6 +1,7 @@
 # MIT 6.034 Introduction to Artifical Intelligence
 My notes and solutions to the homework problems for the OCW MIT 6.034 (Prof. Patrick H. Winston)
 - Notes have been taken on the ReMarkable 2 tablet using the Cornell Note Taking Approach
+
 |Problem set    | Topic                                                                 |
 |---------------|-----------------------------------------------------------------------|
 |pset 0         |Python programming, symbolic algebra                                   |
